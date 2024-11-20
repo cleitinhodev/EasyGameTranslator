@@ -1,8 +1,8 @@
 # EasyGameTranslator
 
-[Site Oficial](https://www.bugzinho.com)
+## Donwload:
 
-[Download](https://www.bugzinho.com/easygametranslator-br)
+[Windows 10/11](https://www.bugzinho.com/easygametranslator-br)
 
 ## Apresentação
 
@@ -186,8 +186,9 @@ Créditos: https://docs.python.org/3/library/tkinter.messagebox.html
 
 # EasyGameTranslator
 
-[Site Oficial](https://www.bugzinho.com)
-[Download](https://www.bugzinho.com/easygametranslator)
+## Download
+
+[Windows 10/11](https://www.bugzinho.com/easygametranslator)
 
 ## Presentation
 
