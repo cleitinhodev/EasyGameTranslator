@@ -1,5 +1,8 @@
 # EasyGameTranslator
 
+[Site Oficial](https://www.bugzinho.com)
+[Download](https://www.bugzinho.com)
+
 ## Apresentação
 
 Easy Game Translator é um software destinado à tradução de games em tempo real, feito de forma simples para usuários com pouco conhecimento, mas muita vontade de jogar jogos não traduzidos.
@@ -181,6 +184,9 @@ Créditos: https://docs.python.org/3/library/tkinter.messagebox.html
 --------------------------------------------------------------------------------
 
 # EasyGameTranslator
+
+[Site Oficial](https://www.bugzinho.com)
+[Download](https://www.bugzinho.com)
 
 ## Presentation
 
