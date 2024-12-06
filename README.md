@@ -2,7 +2,7 @@
 
 ## Donwload:
 
-[Windows 10/11](https://www.bugzinho.com/easygametranslator-br)
+[Easy Game Translator (Win 10/11)](https://www.bugzinho.com/easygametranslator-br)
 
 ## Apresentação
 
