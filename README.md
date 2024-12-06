@@ -188,7 +188,7 @@ Créditos: https://docs.python.org/3/library/tkinter.messagebox.html
 
 ## Download
 
-[Windows 10/11](https://www.bugzinho.com/easygametranslator)
+[Easy Game Translator (Win 10/11)](https://www.bugzinho.com/easygametranslator)
 
 ## Presentation
 
